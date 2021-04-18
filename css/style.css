@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Recursive+TT:ital@1&display=swap');
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body { 
+	background:#F9F9F9;
+	color: #313638;
+	font-family:'Bitter', serif;
+	font-size: 18px;
+	margin: 0px;
+
+}
+h1, h2, h3, h4 { 
+	font-family: 'Recursive', sans-serif;
+	font-weight: bold;
+	margin: center;
+}
+
+h3{ 
+color:#1D7874;
+font-size:26px;
+font-weight: lighter;
+font-weight:500;
+letter-spacing: 55
+}
+
+a {
+	text-decoration: none;
+}
